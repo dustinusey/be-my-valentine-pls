@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    background-color: pink;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    padding: 1.5rem 3rem;
+    background-color: #eee;
+    border-radius: .8rem;
+}
+
+button {
+    padding: .5rem;
+    min-width: 5rem;
+}
+
